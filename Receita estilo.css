@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    background-color: #CD8162;
+}
+#wrap{
+    max-width: 960px;
+    width: 100%;
+    background: white;
+    margin: auto;
+    padding: 10px 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
+h2{
+    text-align: center;
+}
+#ing{
+    background: khaki;
+    border-radius: 10px;
+}
+#ut{
+    background: khaki;
+    border-radius: 10px;
+}
+#mod{
+    background: khaki;
+    border-radius: 10px;
+}
